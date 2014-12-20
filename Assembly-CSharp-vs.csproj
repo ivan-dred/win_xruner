@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\New Folder\ScrollScript.cs" />
      <Compile Include="Assets\Scripts\New Folder\destroyerScript.cs" />
      <Compile Include="Assets\Scripts\SpawnScript.cs" />
+     <Compile Include="Assets\contol_tap.cs" />
      <Compile Include="Assets\ghost.cs" />
      <None Include="Assets\Shaders\NewShader.shader" />
   </ItemGroup>

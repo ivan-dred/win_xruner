@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/contol_tap.cs">
     <Files>
-      <File FileName="Assets/Scripts/SpawnScript.cs" Line="17" Column="97" />
-      <File FileName="Assets/Scripts/New Folder/destroyerScript.cs" Line="8" Column="10" />
+      <File FileName="Assets/contol_tap.cs" Line="29" Column="5" />
+      <File FileName="Assets/ghost.cs" Line="11" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
