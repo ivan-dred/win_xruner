@@ -1,0 +1,1499 @@
+fileFormatVersion: 2
+guid: dd285304c0970aa40a68fe71e2102a46
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flying_1
+    21300002: Flying_2
+    21300004: Flying_3
+    21300006: Flying_4
+    21300008: Flying_5
+    21300010: Flying_6
+    21300012: Flying_7
+    21300014: SuccubusHD_7
+    21300016: SuccubusHD_8
+    21300018: SuccubusHD_9
+    21300020: SuccubusHD_10
+    21300022: SuccubusHD_11
+    21300024: SuccubusHD_12
+    21300026: SuccubusHD_13
+    21300028: SuccubusHD_14
+    21300030: SuccubusHD_15
+    21300032: SuccubusHD_16
+    21300034: SuccubusHD_17
+    21300036: SuccubusHD_18
+    21300038: SuccubusHD_19
+    21300040: SuccubusHD_20
+    21300042: SuccubusHD_21
+    21300044: SuccubusHD_22
+    21300046: SuccubusHD_23
+    21300048: SuccubusHD_24
+    21300050: SuccubusHD_25
+    21300052: SuccubusHD_26
+    21300054: SuccubusHD_27
+    21300056: SuccubusHD_28
+    21300058: SuccubusHD_29
+    21300060: SuccubusHD_30
+    21300062: SuccubusHD_31
+    21300064: SuccubusHD_32
+    21300066: SuccubusHD_33
+    21300068: SuccubusHD_34
+    21300070: SuccubusHD_35
+    21300072: SuccubusHD_36
+    21300074: SuccubusHD_37
+    21300076: SuccubusHD_38
+    21300078: SuccubusHD_39
+    21300080: SuccubusHD_40
+    21300082: SuccubusHD_41
+    21300084: SuccubusHD_42
+    21300086: SuccubusHD_43
+    21300088: SuccubusHD_44
+    21300090: SuccubusHD_45
+    21300092: SuccubusHD_46
+    21300094: SuccubusHD_47
+    21300096: SuccubusHD_48
+    21300098: SuccubusHD_49
+    21300100: SuccubusHD_50
+    21300102: SuccubusHD_51
+    21300104: SuccubusHD_52
+    21300106: SuccubusHD_53
+    21300108: SuccubusHD_54
+    21300110: SuccubusHD_55
+    21300112: SuccubusHD_56
+    21300114: SuccubusHD_57
+    21300116: SuccubusHD_58
+    21300118: SuccubusHD_59
+    21300120: SuccubusHD_60
+    21300122: SuccubusHD_61
+    21300124: SuccubusHD_62
+    21300126: SuccubusHD_63
+    21300128: SuccubusHD_64
+    21300130: SuccubusHD_65
+    21300132: SuccubusHD_66
+    21300134: SuccubusHD_67
+    21300136: SuccubusHD_68
+    21300138: SuccubusHD_69
+    21300140: SuccubusHD_70
+    21300142: SuccubusHD_71
+    21300144: SuccubusHD_72
+    21300146: SuccubusHD_73
+    21300148: SuccubusHD_74
+    21300150: SuccubusHD_75
+    21300152: SuccubusHD_76
+    21300154: SuccubusHD_77
+    21300156: SuccubusHD_78
+    21300158: SuccubusHD_79
+    21300160: SuccubusHD_80
+    21300162: SuccubusHD_81
+    21300164: SuccubusHD_82
+    21300166: SuccubusHD_83
+    21300168: SuccubusHD_84
+    21300170: SuccubusHD_85
+    21300172: SuccubusHD_86
+    21300174: SuccubusHD_87
+    21300176: SuccubusHD_88
+    21300178: SuccubusHD_89
+    21300180: SuccubusHD_90
+    21300182: SuccubusHD_91
+    21300184: SuccubusHD_92
+    21300186: SuccubusHD_93
+    21300188: SuccubusHD_94
+    21300190: SuccubusHD_95
+    21300192: SuccubusHD_96
+    21300194: SuccubusHD_97
+    21300196: SuccubusHD_98
+    21300198: SuccubusHD_99
+    21300200: SuccubusHD_100
+    21300202: SuccubusHD_101
+    21300204: SuccubusHD_102
+    21300206: SuccubusHD_103
+    21300208: SuccubusHD_104
+    21300210: SuccubusHD_105
+    21300212: SuccubusHD_106
+    21300214: SuccubusHD_107
+    21300216: SuccubusHD_108
+    21300218: SuccubusHD_109
+    21300220: SuccubusHD_110
+    21300222: SuccubusHD_111
+    21300224: SuccubusHD_112
+    21300226: SuccubusHD_113
+    21300228: SuccubusHD_114
+    21300230: SuccubusHD_115
+    21300232: SuccubusHD_116
+    21300234: SuccubusHD_117
+    21300236: SuccubusHD_118
+    21300238: SuccubusHD_119
+    21300240: SuccubusHD_120
+    21300242: SuccubusHD_121
+    21300244: SuccubusHD_122
+    21300246: SuccubusHD_123
+    21300248: SuccubusHD_124
+    21300250: SuccubusHD_125
+    21300252: SuccubusHD_126
+    21300254: SuccubusHD_127
+    21300256: SuccubusHD_128
+    21300258: SuccubusHD_129
+    21300260: SuccubusHD_130
+    21300262: SuccubusHD_131
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Flying_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1534
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flying_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1538
+        width: 176
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flying_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1533
+        width: 181
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flying_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1535
+        width: 195
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flying_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1534
+        width: 185
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flying_6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1534
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flying_7
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1533
+        width: 179
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1324
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1325
+        width: 208
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1328
+        width: 186
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1327
+        width: 183
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_11
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1327
+        width: 195
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_12
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1329
+        width: 221
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1329
+        width: 209
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1054
+        width: 134
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1059
+        width: 125
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1168
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1059
+        width: 164
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1060
+        width: 178
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1060
+        width: 176
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_20
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1061
+        width: 185
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_21
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1061
+        width: 180
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_22
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1062
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1066
+        width: 122
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 802
+        width: 153
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 809
+        width: 154
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 912
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 925
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 808
+        width: 182
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_29
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 811
+        width: 185
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_30
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 811
+        width: 185
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_31
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 811
+        width: 193
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_32
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 811
+        width: 185
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_33
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 838
+        width: 155
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_34
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 869
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 642
+        width: 162
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_36
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 642
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 625
+        width: 132
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 625
+        width: 133
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 625
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_40
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 625
+        width: 137
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_41
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 448
+        width: 145
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_42
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 446
+        width: 151
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 471
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 472
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 447
+        width: 137
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_46
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 447
+        width: 132
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 447
+        width: 137
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_48
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 447
+        width: 139
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_49
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 470
+        width: 165
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_50
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 463
+        width: 171
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_51
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 561
+        width: 228
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 367
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 367
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 370
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 369
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_56
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 331
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_57
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 349
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_58
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 340
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_59
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 317
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_60
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 380
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_61
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 377
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_62
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 384
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_63
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 405
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_64
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 329
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_65
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 354
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_66
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 359
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_67
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_68
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_69
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 379
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_70
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 367
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_71
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 373
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_72
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 341
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_73
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 349
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_74
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 319
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_75
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 313
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_76
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_77
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_78
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 315
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_79
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_80
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 315
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_81
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_82
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_83
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 315
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_84
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 315
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_85
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 315
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_86
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_87
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 313
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_88
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_89
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_90
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 315
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_91
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_92
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 315
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_93
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_94
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 315
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_95
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 313
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 310
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_99
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 310
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_100
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 310
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_101
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 310
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_105
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_106
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_107
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_108
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_109
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_110
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_111
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 126
+        width: 189
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_112
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_113
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_115
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_116
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_117
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_118
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_119
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_120
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_121
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 48
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_123
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_124
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_125
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_126
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_127
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_128
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_129
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_130
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuccubusHD_131
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 5
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
