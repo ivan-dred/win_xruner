@@ -16,13 +16,13 @@ TextureImporter:
     21300022: Mario_Enemies_Sprites_by_DOTshima_11
     21300024: Mario_Enemies_Sprites_by_DOTshima_12
     21300026: Mario_Enemies_Sprites_by_DOTshima_13
-    21300028: Mario_Enemies_Sprites_by_DOTshima_14
-    21300030: Mario_Enemies_Sprites_by_DOTshima_15
+    21300028: Gnom6
+    21300030: Gnom5
     21300032: Mario_Enemies_Sprites_by_DOTshima_16
     21300034: Mario_Enemies_Sprites_by_DOTshima_17
     21300036: Mario_Enemies_Sprites_by_DOTshima_18
     21300038: Mario_Enemies_Sprites_by_DOTshima_19
-    21300040: Mario_Enemies_Sprites_by_DOTshima_20
+    21300040: Gnom11
     21300042: Mario_Enemies_Sprites_by_DOTshima_21
     21300044: Mario_Enemies_Sprites_by_DOTshima_22
     21300046: Mario_Enemies_Sprites_by_DOTshima_23
@@ -59,14 +59,14 @@ TextureImporter:
     21300108: Mario_Enemies_Sprites_by_DOTshima_54
     21300110: Mario_Enemies_Sprites_by_DOTshima_55
     21300112: Mario_Enemies_Sprites_by_DOTshima_56
-    21300114: Mario_Enemies_Sprites_by_DOTshima_57
-    21300116: Mario_Enemies_Sprites_by_DOTshima_58
-    21300118: Mario_Enemies_Sprites_by_DOTshima_59
-    21300120: Mario_Enemies_Sprites_by_DOTshima_60
-    21300122: Mario_Enemies_Sprites_by_DOTshima_61
-    21300124: Mario_Enemies_Sprites_by_DOTshima_62
-    21300126: Mario_Enemies_Sprites_by_DOTshima_63
-    21300128: Mario_Enemies_Sprites_by_DOTshima_64
+    21300114: Gnom1
+    21300116: Gnom2
+    21300118: Gnom3
+    21300120: Gnom4
+    21300122: Gnom10
+    21300124: 9
+    21300126: Gnom8
+    21300128: Gnom7
     21300130: Mario_Enemies_Sprites_by_DOTshima_65
     21300132: Mario_Enemies_Sprites_by_DOTshima_66
     21300134: Mario_Enemies_Sprites_by_DOTshima_67
@@ -211,12 +211,12 @@ TextureImporter:
     21300412: Mario_Enemies_Sprites_by_DOTshima_206
     21300414: Mario_Enemies_Sprites_by_DOTshima_207
     21300416: Mario_Enemies_Sprites_by_DOTshima_208
-    21300418: Mario_Enemies_Sprites_by_DOTshima_209
-    21300420: Mario_Enemies_Sprites_by_DOTshima_210
-    21300422: Mario_Enemies_Sprites_by_DOTshima_211
-    21300424: Mario_Enemies_Sprites_by_DOTshima_212
-    21300426: Mario_Enemies_Sprites_by_DOTshima_213
-    21300428: Mario_Enemies_Sprites_by_DOTshima_214
+    21300418: GreenTurtle1
+    21300420: GreenTurtle2
+    21300422: GreenTurtle3
+    21300424: Turtle1
+    21300426: Turtle2
+    21300428: Turtle3
     21300430: ghost
     21300432: Mario_Enemies_Sprites_by_DOTshima_216
     21300434: Mario_Enemies_Sprites_by_DOTshima_217
@@ -538,7 +538,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_14
+    - name: Gnom6
       rect:
         serializedVersion: 2
         x: 337
@@ -548,7 +548,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_15
+    - name: Gnom5
       rect:
         serializedVersion: 2
         x: 357
@@ -598,7 +598,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_20
+    - name: Gnom11
       rect:
         serializedVersion: 2
         x: 459
@@ -968,7 +968,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_57
+    - name: Gnom1
       rect:
         serializedVersion: 2
         x: 337
@@ -978,7 +978,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_58
+    - name: Gnom2
       rect:
         serializedVersion: 2
         x: 357
@@ -988,7 +988,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_59
+    - name: Gnom3
       rect:
         serializedVersion: 2
         x: 376
@@ -998,7 +998,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_60
+    - name: Gnom4
       rect:
         serializedVersion: 2
         x: 395
@@ -1008,7 +1008,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_61
+    - name: Gnom10
       rect:
         serializedVersion: 2
         x: 416
@@ -1018,7 +1018,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_62
+    - name: 9
       rect:
         serializedVersion: 2
         x: 435
@@ -1028,7 +1028,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_63
+    - name: Gnom8
       rect:
         serializedVersion: 2
         x: 454
@@ -1038,7 +1038,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_64
+    - name: Gnom7
       rect:
         serializedVersion: 2
         x: 473
@@ -1391,7 +1391,7 @@ TextureImporter:
     - name: Mario_Enemies_Sprites_by_DOTshima_99
       rect:
         serializedVersion: 2
-        x: 380
+        x: 379
         y: 337
         width: 19
         height: 32
@@ -2488,7 +2488,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_209
+    - name: GreenTurtle1
       rect:
         serializedVersion: 2
         x: 10
@@ -2498,7 +2498,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_210
+    - name: GreenTurtle2
       rect:
         serializedVersion: 2
         x: 44
@@ -2508,7 +2508,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_211
+    - name: GreenTurtle3
       rect:
         serializedVersion: 2
         x: 77
@@ -2518,7 +2518,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_212
+    - name: Turtle1
       rect:
         serializedVersion: 2
         x: 173
@@ -2528,7 +2528,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_213
+    - name: Turtle2
       rect:
         serializedVersion: 2
         x: 207
@@ -2538,7 +2538,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Mario_Enemies_Sprites_by_DOTshima_214
+    - name: Turtle3
       rect:
         serializedVersion: 2
         x: 240
