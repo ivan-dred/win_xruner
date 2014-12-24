@@ -7,10 +7,7 @@ public class destroyerScript : MonoBehaviour {
 	{
 		if (other.tag == "Player") 
 		{
-			//Application.LoadLevel(1);
-			//return;
-//			Debug.Log ("Player down");
-			Debug.Break();
+			Application.LoadLevel(1);
 			return;
 		}
 		if (other.gameObject.transform.parent) 

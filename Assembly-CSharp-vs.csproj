@@ -48,11 +48,13 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BackgroundScroller.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Gold.cs" />
+     <Compile Include="Assets\Scripts\HUDscript.cs" />
+     <Compile Include="Assets\Scripts\New Folder\GameOverScript.cs" />
      <Compile Include="Assets\Scripts\New Folder\ScrollScript.cs" />
      <Compile Include="Assets\Scripts\New Folder\destroyerScript.cs" />
      <Compile Include="Assets\Scripts\SpawnScript.cs" />
      <Compile Include="Assets\Scripts\contol_tap.cs" />
-     <None Include="Assets\Shaders\NewShader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

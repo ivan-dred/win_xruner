@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemy : MonoBehaviour {
+public class Gold : MonoBehaviour {
+
+	HUDscript hud;
 
 	// Use this for initialization
 	void Start () {
@@ -18,8 +20,9 @@ public class Enemy : MonoBehaviour {
 	{
 		if (other.tag == "Player") 
 		{
-			Application.LoadLevel(1);
-			return;
+			hud = GameObject.Find("Main Camera").GetComponent<HUDscript>();
+			hud.IncreaseScore(10);
+			Destroy (this.gameObject);
 		}
 	}
 
